@@ -6,3 +6,4 @@ RUN pip install qiskit && \
     pip install seaborn && \
     pip install qiskit-terra[visualization]
 
+ADD ./sample /sample
